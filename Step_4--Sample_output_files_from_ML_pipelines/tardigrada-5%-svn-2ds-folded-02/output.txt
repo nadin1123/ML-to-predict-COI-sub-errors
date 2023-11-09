@@ -1,0 +1,10 @@
+ . Loading....
+ . Performing grid search
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+ . Best parameters found for SVN: {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+ . Creating SVC model to use on training data
+ . Performing evaluation:
+Performance metrics:  accuracy 0.50, precision 0.50, recall 1.00, F1 0.67
+    .->    1   2
+  1  :   120   0
+  2  :   120   0
